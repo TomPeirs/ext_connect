@@ -1,0 +1,4 @@
+﻿Name;ID;Availability;Criticality;Integrity
+BusObj1;BusObj-1;High;Low;Medium
+BusObj2;BusObj-2;Medium;Low;High
+BusObj3;BusObj-3;Low;Medium;High

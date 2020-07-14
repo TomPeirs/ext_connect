@@ -1,0 +1,4 @@
+Name;ID;Availability;Criticality;Integrity;Business Objects
+"<b><script>alert('test');</script>App1</b>";App-1;High;Low;Medium;BusObj-1,BusObj-2
+App3;App-3;Low;Medium;High;BusObj-3
+App2;App-2;Medium;High;Low;,,BusObj-2,
